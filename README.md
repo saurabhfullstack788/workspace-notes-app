@@ -2,6 +2,10 @@
 
 A multi-tenant notes application with PostgreSQL Row-Level Security, role-based access control, and LLM-powered project summarization.
 
+## Demo Video
+
+[Watch the screen recording](https://drive.google.com/file/d/1LoJCZ1UtkIQtBmoKuJhMSrWdbnB8PGLD/view?usp=sharing)
+
 ## Quick Start
 
 ### Prerequisites
