@@ -1,5 +1,6 @@
 services:
   db:
+    container_name: workspace-notes-db
     image: postgres:16
     environment:
       POSTGRES_DB: workspace_notes
